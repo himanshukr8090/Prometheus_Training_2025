@@ -1,0 +1,5 @@
+- targets: ["13.203.222.164:9100"]
+  labels:
+    regin: "India"
+    team: "Web"
+    env: "test" 
